@@ -8,3 +8,9 @@ Extra text
 Sample website with plenty of files for demos
 
 ## Deployment
+
+More text
+
+## Procedures
+
+Procedures here.
