@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-More text
+More text. And yet more.
 
 ## Procedures
 
