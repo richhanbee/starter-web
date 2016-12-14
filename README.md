@@ -6,6 +6,7 @@ Extra text. Various commands using a web project.
 ## Purpose
 
 Sample website with plenty of files for demos
+Adding a line for rebasing.
 
 ## Deployment
 
