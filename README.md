@@ -14,3 +14,7 @@ More text. And yet more.
 ## Procedures
 
 Procedures here. Yet more of them
+
+## Copyright
+
+Copyright Richard
