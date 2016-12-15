@@ -18,7 +18,7 @@ Procedures here. Yet more of them
 
 ## Copyright
 
-Copyright Richard
+Copyright Richard. All rights reserved.
 
 ## Instrs
 
