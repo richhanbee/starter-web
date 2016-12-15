@@ -7,6 +7,7 @@ Extra text. Various commands using a web project, then more from myfeature branc
 
 Sample website with plenty of files for demos
 Adding a line for rebasing.
+Emergency fix after stash.
 
 ## Deployment
 
